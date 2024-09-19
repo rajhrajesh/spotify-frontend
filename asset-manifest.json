@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/spotify-frontend/static/css/main.47e5195d.css",
+    "main.js": "/spotify-frontend/static/js/main.ebe51c1c.js",
+    "static/media/song9.mp3": "/spotify-frontend/static/media/song9.e99faebe757ebac36c52.mp3",
+    "static/media/song8.mp3": "/spotify-frontend/static/media/song8.5cb820b44b1403c1fa65.mp3",
+    "static/media/song4.mp3": "/spotify-frontend/static/media/song4.5e33858449d8abe94d24.mp3",
+    "static/media/song5.mp3": "/spotify-frontend/static/media/song5.0abe673ebb8790340bdb.mp3",
+    "static/media/song6.mp3": "/spotify-frontend/static/media/song6.db8ef82922276ded044d.mp3",
+    "static/media/song7.mp3": "/spotify-frontend/static/media/song7.6d04a03223eae8d26665.mp3",
+    "static/media/song2.mp3": "/spotify-frontend/static/media/song2.094319c6a6cb9bf717d7.mp3",
+    "static/media/song3.mp3": "/spotify-frontend/static/media/song3.780c4dfad32ecaf4e3ef.mp3",
+    "static/media/song1.mp3": "/spotify-frontend/static/media/song1.0f48c2788ccdf3a2c0e9.mp3",
+    "static/media/img14.jpg": "/spotify-frontend/static/media/img14.b46deb377189303a7351.jpg",
+    "static/media/img10.jpg": "/spotify-frontend/static/media/img10.bac9694164a601fb4926.jpg",
+    "static/media/img16.jpg": "/spotify-frontend/static/media/img16.740a13044ad52ee5cc79.jpg",
+    "static/media/img2.jpg": "/spotify-frontend/static/media/img2.ba40edc721dd72d826e8.jpg",
+    "static/media/img4.jpg": "/spotify-frontend/static/media/img4.ac9c78ba94d348f5cf56.jpg",
+    "static/media/img15.jpg": "/spotify-frontend/static/media/img15.56317abebba893dbb126.jpg",
+    "static/media/img12.jpg": "/spotify-frontend/static/media/img12.ba06d4c6ae2b80302433.jpg",
+    "static/media/img3.jpg": "/spotify-frontend/static/media/img3.a9be7b865e5a65eea026.jpg",
+    "static/media/img5.jpg": "/spotify-frontend/static/media/img5.3a7302df52da9425e43c.jpg",
+    "static/media/img11.jpg": "/spotify-frontend/static/media/img11.b4899d0eb46a32545a7b.jpg",
+    "static/media/img9.jpg": "/spotify-frontend/static/media/img9.ef9686312a7aad6fb6ba.jpg",
+    "static/media/img7.jpg": "/spotify-frontend/static/media/img7.d5c48a67c531d5e04d0f.jpg",
+    "static/media/img8.jpg": "/spotify-frontend/static/media/img8.84a719877c3acafe9abb.jpg",
+    "static/media/img1.jpg": "/spotify-frontend/static/media/img1.f715083013430b7e457e.jpg",
+    "index.html": "/spotify-frontend/index.html",
+    "main.47e5195d.css.map": "/spotify-frontend/static/css/main.47e5195d.css.map",
+    "main.ebe51c1c.js.map": "/spotify-frontend/static/js/main.ebe51c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e5195d.css",
+    "static/js/main.ebe51c1c.js"
+  ]
+}
